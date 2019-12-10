@@ -1,0 +1,2 @@
+# ilmuku
+script my bot
